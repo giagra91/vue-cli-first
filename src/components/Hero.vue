@@ -1,5 +1,7 @@
 <template>
-  <img class="img-fluid" src="../assets/jumbo.png" alt="Jumbo png" />
+  <div>
+    <img class="img-fluid" src="../assets/jumbo.png" alt="Jumbo png" />
+  </div>
 </template>
 
 <script>
